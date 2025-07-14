@@ -1,0 +1,5 @@
+[project]
+name = "stamp"
+version = "0.1.0"
+description = "Solid Tumor Associative Modeling in Pathology"
+requires-python = ">=3.10"
